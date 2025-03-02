@@ -1,5 +1,7 @@
 # Project Name
-Group 4 - Morgan, Jack, Aylene
+Group 4 
+## Authors
+Morgan, Jack, Aylene
 ## Description
 This assignment uses the Nelder-Mead Simplex on a weighted graph road to simulate 
 the travel path between Charleston and Charlotte. The goal is to use the program to
